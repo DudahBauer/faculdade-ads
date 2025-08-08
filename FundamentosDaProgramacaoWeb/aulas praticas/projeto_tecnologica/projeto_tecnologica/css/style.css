@@ -15,7 +15,7 @@ h1{
 }
 
 h2{
-    color: #06c;
+    color:rgb(204, 0, 143);
 }
 
 h3{
@@ -25,7 +25,7 @@ h3{
 }
 
 #header{
-    background-color: #06c;
+    background-color: rgb(204, 0, 143);
     padding: 15px;
     text-align: center;
 }
@@ -40,7 +40,7 @@ h3{
 }
 
 #header a:houver{
-    color: #06c;
+    color: rgb(204, 0, 143);
     background-color: white;
     text-decoration: none;
 }
@@ -68,7 +68,7 @@ h3{
 
 .data-post{
     font-size: 13px;
-    border-bottom: 1px, solid #06c;
+    border-bottom: 1px, rgb(204, 0, 143);
     display: block;
     padding-bottom: 10px;
     margin-bottom: 10px;
@@ -111,5 +111,5 @@ a:hover{
     text-align: center;
     padding: 15px;
     background: white;
-    color: #06c;
+    color: rgb(204, 0, 143);
 }
