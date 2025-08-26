@@ -7,7 +7,7 @@ Atividades, exercícios e projetos práticos
 
 Códigos, scripts e aplicações desenvolvidas.
 
-Trabalhos acadêmicos.
+Exercícios acadêmicos.
 
 📁 Organização
 Os arquivos estão organizados em pastas por disciplina, facilitando a navegação e consulta.
